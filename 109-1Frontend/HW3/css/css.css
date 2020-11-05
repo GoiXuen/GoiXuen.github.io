@@ -1,0 +1,244 @@
+.iphone
+{
+    background-image: url(../css/img/iphone.jpg);
+    z-index: -100;
+    display: inline-block;
+}
+
+.iphone-img
+{
+    height:700px;
+    width: 410px;
+    background-size:90%;
+    background-repeat:no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.facebook
+{
+    background-image: url(../css/img/facebook.png);
+    background-size: 115%;
+    background-repeat:no-repeat;
+    z-index: 1;
+    height: 50px; 
+    width: 50px; 
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 80px;
+    margin-left: 63px;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.instagram
+{
+    background-image: url(../css/img/instagram.jpg);
+    background-size: 135%;
+    background-repeat:no-repeat;
+    z-index: 1;
+    height: 50px; 
+    width: 50px; 
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 0px;
+    margin-left: 22px;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.chrome
+{
+    background-image: url(../css/img/chrome.jpg);
+    background-size: 100%;
+    background-repeat:no-repeat;
+    z-index: 1;
+    height: 50px; 
+    width: 50px; 
+    display: inline-block;
+    border-radius: 12px;
+    margin-bottom:370px;
+    margin-left: 64px;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.line
+{
+    background-image: url(../css/img/line.png);
+    background-size: 100%;
+    background-repeat:no-repeat;
+    z-index: 1;
+    height: 50px; 
+    width: 50px; 
+    display: inline-block;
+    border-radius: 12px;
+    margin-top: 0px;
+    margin-left: 20px;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.messenger
+{
+    background-image: url(../css/img/messenger.jpg);
+    background-size: 100%;
+    background-repeat:no-repeat;
+    z-index: 1;
+    height: 50px; 
+    width: 50px; 
+    display: inline-block;
+    border-radius: 12px;
+    margin-top: 0px;
+    margin-left: 20px;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.youtube
+{
+    background-image: url(../css/img/youtube.jpg);
+    background-size: 90%;
+    background-repeat:no-repeat;
+    z-index: 1;
+    height: 50px; 
+    width: 50px; 
+    display: inline-block;
+    border-radius: 12px;
+    margin-bottom: 340px;
+    margin-left: 20px;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.drive
+{
+    background-image: url(../css/img/google\ drive.jpg);
+    background-size: 80%;
+    background-repeat:no-repeat;
+    z-index: 1;
+    height: 50px; 
+    width: 50px; 
+    display: inline-block;
+    border-radius: 12px;
+    margin-bottom: 340px;
+    margin-left: 22px;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.dcard
+{
+    background-image: url(../css/img/dcard.png);
+    background-size: 90%;
+    background-repeat:no-repeat;
+    z-index: 1;
+    height: 50px; 
+    width: 50px; 
+    display: inline-block;
+    border-radius: 12px;
+    margin-bottom: 340px;
+    margin-left: 22px;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.phone
+{
+    background-image: url(../css/img/phone.jpg);
+    background-size: 115%;
+    background-repeat:no-repeat;
+    z-index: 1;
+    height: 50px; 
+    width: 50px; 
+    display: inline-block;
+    border-radius: 12px;
+    margin-bottom: 425px;
+    margin-left: 42px;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.message
+{
+    background-image: url(../css/img/message.jpg);
+    background-size: 125%;
+    background-repeat:no-repeat;
+    z-index: 1;
+    height: 50px; 
+    width: 50px; 
+    display: inline-block;
+    border-radius: 12px;
+    margin-bottom: 425px;
+    margin-left: 100px;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+
+.forfonts
+{
+    background-color: transparent;
+    z-index: 0;
+    height: 795px;
+    width: 372px;
+    margin-top:-1050px; 
+    margin-left:20px;
+}
+
+.fonts
+{
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'calibri', Arial, sans-serif;
+    font-size: 12px;
+    z-index: 3;
+}
+
+.facebook-f
+{
+    margin-left: 43px;
+    margin-top: 155px;
+}
+
+.msg-f
+{
+    margin-left: 115px;
+    margin-top: -15px;
+}
+
+.instagram-f
+{
+    margin-left: 197px;
+    margin-top: -13px;
+}
+
+.line-f
+{
+    margin-left: 290px;
+    margin-top: -13px;
+}
+
+.chrome-f
+{
+    margin-left: 48px;
+    margin-top: 72px;
+}
+
+.drive-f
+{
+    margin-left: 122px;
+    margin-top: -15px;
+}
+
+.youtube-f
+{
+    margin-left: 202px;
+    margin-top: -15px;
+}
+
+.dcard-f
+{
+    margin-left: 285px;
+    margin-top: -13px;
+}   
+
